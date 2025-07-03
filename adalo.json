@@ -1,0 +1,16 @@
+{
+  "displayName": "MXM Components",
+  "components": [
+    {
+      "name": "Example",
+      "manifest": "./src/components/Example/manifest.json"
+    },
+    {
+      "name": "RadarChart",
+      "manifest": "./src/components/RadarChart/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
