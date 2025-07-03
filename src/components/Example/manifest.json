@@ -16,6 +16,17 @@
       "displayName": "Color",
       "type": "color",
       "default": "#00A898"
+    },
+    {
+      "name": "buttonTitle",
+      "displayName": "Button Title",
+      "type": "text",
+      "default": "Click Me"
+    },
+    {
+      "name": "onButtonPress",
+      "displayName": "Button Action",
+      "type": "action"
     }
   ]
 }
